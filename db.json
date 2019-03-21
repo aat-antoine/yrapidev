@@ -1,0 +1,63 @@
+{
+	"cardCode": {
+		"customer": {
+			"titleCode": "MR",
+			"firstName": "Jean",
+			"lastName": "Neige",
+			"loyalty": {
+				"account": {
+					"id": 62,
+					"creationDate": "2019-02-01T17:58:57+01:00",
+					"updateDate": "2019-02-01T15:13:46+01:00",
+					"startDate": "2019-02-01T17:58:57+01:00",
+					"endDate": "2020-02-01T23:59:59+01:00",
+					"status": 1,
+					"countryCode": "FR",
+					"pointsConfirmed": 493,
+					"pointsConfirmedEndDate": "2020-02-18T15:13:46+01:00",
+					"pointsVirtual": 0,
+					"pointsVirtualEndDate": null,
+					"pointsTemp": 0,
+					"pointsTempEndDate": null
+				},
+				"card": {
+					"cardCode": "533",
+					"creationDate": "2019-02-01T16:58:19+01:00",
+					"updateDate": "2019-02-01T16:58:19+01:00",
+					"type": 1,
+					"status": 1,
+					"priority": 1
+				},
+				"vouchers": [{
+					"id": 226,
+					"code": "VOU00000-23",
+					"creationDate": "2019-02-01T10:59:23+01:00",
+					"updateDate": "2019-02-01T10:59:23+01:00",
+					"status": 1,
+					"validityStartDate": "2019-02-18T10:59:23+01:00",
+					"validityEndDate": "2019-04-04T10:59:23+02:00",
+					"useDate": "",
+					"advantages": [{
+							"id": 751101,
+							"code": "FPRODUCT0000000000000084",
+							"status": 1,
+							"productCode": ""
+						},
+						{
+							"id": 751102,
+							"code": "VOUCH5E0000000000000092",
+							"status": 1,
+							"productCode": ""
+						},
+						{
+							"id": 751103,
+							"code": "PLANTONS0000000000000093",
+							"status": 1,
+							"productCode": ""
+						}
+					]
+				}]
+			}
+		}
+	}
+}

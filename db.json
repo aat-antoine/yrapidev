@@ -37,7 +37,8 @@
 					"validityStartDate": "2019-02-18T10:59:23+01:00",
 					"validityEndDate": "2019-04-04T10:59:23+02:00",
 					"useDate": "",
-					"advantages": [{
+					"advantages": [
+						{
 							"id": 751101,
 							"code": "FPRODUCT0000000000000084",
 							"status": 1,
